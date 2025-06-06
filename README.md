@@ -7,15 +7,15 @@
 
 ---
 
-🎯 **DSA_CODES_BY_ANIK** is a complete and structured collection of Data Structures and Algorithms implemented in C++.  
-It is built for **competitive programmers**, **interview preparation**, and **students** learning DSA from scratch.
+🎯 **DSA_CODES_BY_ANIK** is a structured and efficient collection of Data Structures and Algorithms implemented in C++.  
+Perfect for **competitive programming**, **technical interviews**, and **academic learning**.
 
 ---
 
-## ✨ Coding Vibes
+## ✨ Professional Coding Animation
 
 <div align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" alt="Cute Coding Cartoon" width="450"/>
+  <img src="https://media.giphy.com/media/ZXKZWB13D6gFO/giphy.gif" alt="Professional Developer Animation" width="500"/>
 </div>
 
 ---
