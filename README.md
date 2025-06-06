@@ -15,7 +15,7 @@ It is built for **competitive programmers**, **interview preparation**, and **st
 ## ✨ Coding Vibes
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="DSA Animation" width="500"/>
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" alt="Cute Coding Cartoon" width="450"/>
 </div>
 
 ---
